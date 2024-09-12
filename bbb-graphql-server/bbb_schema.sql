@@ -424,7 +424,7 @@ AS SELECT "user"."userId",
     "user"."mobile",
     "user"."clientType",
     "user"."enforceLayout",
-    "user"."logoutUrl"
+    "user"."logoutUrl",
     "user"."isDialIn",
     "user"."role",
     "user"."authed",
